@@ -29,7 +29,7 @@ A brief description of Project 3. Include any notable accomplishments or challen
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewpaulussergio&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewpaulussergio&show_icons=true&theme=radical&cache_seconds=3600)
 
 ## Connect with Me
 
