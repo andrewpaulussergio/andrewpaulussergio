@@ -27,10 +27,6 @@ A brief description of Project 2. Mention any technologies used and the purpose 
 ### [Project 3](https://github.com/paulusuluap/project3)
 A brief description of Project 3. Include any notable accomplishments or challenges overcome.
 
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewpaulussergio&show_icons=true&theme=radical&cache_seconds=3600)
-
 ## Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/andrewpaulsergio)
