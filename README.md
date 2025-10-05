@@ -12,9 +12,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 ## Skills
 
 - **Languages:** HTML, CSS, Javascript, Typescript, C#
-- **Frameworks and Libraries:** React, Vue, Node.js
+- **Frameworks and Libraries:** Next.js, React, Vue, Node.js
 - **Tools and Platforms:** Git
-- **Databases:** MySQL, SQL Server, PostgreSQL
+- **Databases:** SQL Server, PostgreSQL
 
 ## Projects
 
