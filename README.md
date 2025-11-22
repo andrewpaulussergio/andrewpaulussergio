@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew Paul 👋
+# Hi there, I'm Andrew 👋
 
 Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests in the world of software development.
 
