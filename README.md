@@ -43,13 +43,6 @@ I am a high-performance engineer focused on building scalable, multi-tenant appl
 
 ---
 
-### 📈 Stats & Activity
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=transparent)
-
----
-
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/andrewpaul)
