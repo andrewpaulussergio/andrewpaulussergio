@@ -8,11 +8,11 @@ I am a high-performance engineer focused on building scalable, multi-tenant appl
 
 ### 🚀 At a Glance
 
-- 💼 **Senior Software Engineer** at RADSoft, building institutional FinTech platforms[cite: 7, 8, 9].
+- 💼 **Senior Software Engineer** at RADSoft, building institutional FinTech platforms.
 - 🛠️ **Expertise**: React 19, Next.js 16 (App Router), TypeScript, and Tailwind CSS v4.
-- 🤖 **AI Engineering**: Building generative interfaces with Vercel AI SDK v6 and LLM Tool Calling[cite: 27, 39].
-- 🔐 **Architecture**: Specialist in multi-tenant systems using PostgreSQL Row Level Security (RLS)[cite: 26, 39].
-- 🌏 **Remote-Ready**: Working from Bekasi, Indonesia (WIB Timezone), targeting US-based remote roles[cite: 1].
+- 🤖 **AI Engineering**: Building generative interfaces with Vercel AI SDK v6 and LLM Tool Calling.
+- 🔐 **Architecture**: Specialist in multi-tenant systems using PostgreSQL Row Level Security (RLS).
+- 🌏 **Remote-Ready**: Working from Bekasi, Indonesia (WIB Timezone), targeting US-based remote roles.
 
 ---
 
@@ -23,7 +23,7 @@ I am a high-performance engineer focused on building scalable, multi-tenant appl
 | **Frontend** | React 19, Next.js 16, TypeScript, Vue.js, Tailwind CSS v4, TanStack Query, shadcn/ui  |
 | **AI & Backend** | Vercel AI SDK v6, LLM Tool Calling, Supabase, PostgreSQL (RLS), C#, .NET Core  |
 | **Engineering** | Multi-tenant Architecture, Server Actions, Middleware, Zod, Performance Optimization  |
-| **Development** | Docker, Nginx, Unity (C#), Git, Agile/Scrum [cite: 22, 39] |
+| **Development** | Docker, Nginx, Unity (C#), Git, Agile/Scrum |
 
 ---
 
@@ -31,15 +31,15 @@ I am a high-performance engineer focused on building scalable, multi-tenant appl
 
 #### [AI-Native B2B SaaS Workspace](https://github.com/your-github/ai-saas-workspace)
 **Next-gen task management featuring Generative UI.**
-- Architected a multi-tenant foundation with **PostgreSQL RLS** for 100% data isolation[cite: 26].
-- Implemented **Generative UI/UX** using Vercel AI SDK v6, enabling dynamic rendering of React components via AI[cite: 27].
-- Early adopter of **React 19** and **Tailwind CSS v4** engine[cite: 28].
+- Architected a multi-tenant foundation with **PostgreSQL RLS** for 100% data isolation.
+- Implemented **Generative UI/UX** using Vercel AI SDK v6, enabling dynamic rendering of React components via AI.
+- Early adopter of **React 19** and **Tailwind CSS v4** engine.
 
 #### [CryptoTude](https://crypto-tude.vercel.app/)
 **Real-time financial analytics dashboard.**
-- Achieved a **100/100 Lighthouse performance score**[cite: 31].
-- Optimized data fetching with **TanStack Query** and selective hydration[cite: 30, 32].
-- Integrated real-time market data tracking for 50+ cryptocurrencies[cite: 31].
+- Achieved a **100/100 Lighthouse performance score**.
+- Optimized data fetching with **TanStack Query** and selective hydration.
+- Integrated real-time market data tracking for 50+ cryptocurrencies.
 
 ---
 
