@@ -12,7 +12,7 @@ I am a high-performance engineer focused on building scalable, multi-tenant appl
 - 🛠️ **Expertise**: React 19, Next.js 16 (App Router), TypeScript, and Tailwind CSS v4.
 - 🤖 **AI Engineering**: Building generative interfaces with Vercel AI SDK v6 and LLM Tool Calling.
 - 🔐 **Architecture**: Specialist in multi-tenant systems using PostgreSQL Row Level Security (RLS).
-- 🌏 **Remote-Ready**: Working from Bekasi, Indonesia (WIB Timezone), targeting US-based remote roles.
+- 🌏 **Remote-Ready**: Working from Indonesia (WIB Timezone), targeting for remote roles.
 
 ---
 
