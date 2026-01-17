@@ -52,8 +52,8 @@ I am a high-performance engineer focused on building scalable, multi-tenant appl
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/andrewpaul) [cite: 3]
-- 🌐 [Portfolio Portfolio](https://andrew-paul-portfolio.vercel.app/) [cite: 3]
-- 📧 [andrew@email.com](mailto:andrew@email.com) [cite: 3]
+- 💼 [LinkedIn](https://linkedin.com/in/andrewpaul)
+- 🌐 [My Web Portfolio](https://andrew-paul-portfolio.vercel.app/)
+- 📧 [paulusuluap@gmail.com](mailto:paulusuluap@gmail.com)
 
 "Building the future of the web, one server action at a time."
